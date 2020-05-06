@@ -1,1 +1,3 @@
-# ScoobyDooo
+# practice-code
+
+Beginner python codes
